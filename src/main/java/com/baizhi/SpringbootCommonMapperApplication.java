@@ -8,6 +8,10 @@ import tk.mybatis.spring.annotation.MapperScan;
 @MapperScan(value = "com.baizhi.dao")
 public class SpringbootCommonMapperApplication {
 
+	
+	
+	
+	
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootCommonMapperApplication.class, args);
 	}
